@@ -1,7 +1,7 @@
 {
-  "name": "Maxima Pool",
-  "description": "MAX. Climate positive pool optimized for maximum performance + low fee. Secure, reliable, low latency, and powerful. Based in Silicon Valley.",
-  "ticker": "MAX",
-  "homepage": "https://maximapool.com",
-  "extended": "https://raw.githubusercontent.com/maximapool/pool/main/adapools-meta.json"
+"name": "Maxima Pool",
+"description": "MAX. Climate positive pool optimized for maximum performance + low fee. Secure, reliable, low latency, and powerful. Based in Silicon Valley.",
+"ticker": "MAX",
+"homepage": "https://maximapool.com",
+"extended": "https://raw.githubusercontent.com/maximapool/pool/main/adapools-meta.json"
 }
